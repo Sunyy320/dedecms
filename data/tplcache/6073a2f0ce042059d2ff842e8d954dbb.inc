@@ -1,0 +1,15 @@
+{dede:field name='keywords'}初来乍到第二季,初来乍到{/dede:field}
+{dede:field name='description'}最新电视剧《初来乍到第二季》全集迅雷下载在线观看，a67手机电影网免费为广大用户提供《初来乍到第二季》电视剧全集迅雷高清下载，以及高清在线播放，轻轻一点，把a67收藏，让{/dede:field}
+{dede:field name='title'}初来乍到第二季{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='time'}2015{/dede:field}
+{dede:field name='daoyan'}琳·谢尔顿{/dede:field}
+{dede:field name='yanyuan'}兰道尔·朴 康斯坦斯·吴 哈德森·杨 福雷斯特·惠勒 伊恩·陈{/dede:field}
+{dede:field name='pingfen'}0.0{/dede:field}
+{dede:field name='introduction'}全新美剧《初来乍到》讲述的是上世纪90年代移民去美国的中国人如何融入当地社会的故事，展现方式是主流的喜剧模式，目前已经续订第二季。整个故事的设定是从20年前开始的，艾迪和家人一起搬到奥克兰，因为父亲想让他们过上更好的生活，但他们全家随之展开了要与周遭相容的斗争{/dede:field}
+{dede:field name='download'}{/dede:field}
+{dede:field name='yuyan'}英语{/dede:field}
+{dede:field name='area'}美剧{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/dedecms/uploads/allimg/c160328/145914O1214920-2B921.jpg{/dede:field}

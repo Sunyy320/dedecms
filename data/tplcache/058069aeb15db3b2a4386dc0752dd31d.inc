@@ -1,0 +1,15 @@
+{dede:field name='keywords'}美丽的你,美丽的你电视剧{/dede:field}
+{dede:field name='description'}最新电视剧《美丽的你》全集迅雷下载在线观看，a67手机电影网免费为广大用户提供《美丽的你》电视剧全集迅雷高清下载，以及高清在线播放，轻轻一点，把a67收藏，让您和您的朋友{/dede:field}
+{dede:field name='title'}美丽的你{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='time'}2015{/dede:field}
+{dede:field name='daoyan'}高东善{/dede:field}
+{dede:field name='yanyuan'}李素妍 姜恩卓 徐道营 郑爱利{/dede:field}
+{dede:field name='pingfen'}6.5{/dede:field}
+{dede:field name='introduction'}讲述了通过遭受人生关口的家族间的矛盾使家人间的感情更为牢固的故事{/dede:field}
+{dede:field name='download'}{/dede:field}
+{dede:field name='yuyan'}韩语{/dede:field}
+{dede:field name='area'}韩剧{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/dedecms/uploads/allimg/c160328/145914O1Fa50-291W1.jpg{/dede:field}

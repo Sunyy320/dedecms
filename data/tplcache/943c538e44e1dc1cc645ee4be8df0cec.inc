@@ -1,0 +1,15 @@
+{dede:field name='keywords'}萤火侠,萤火侠迅雷下载{/dede:field}
+{dede:field name='description'}最新电影《萤火侠》全集迅雷下载在线观看，a67手机电影网免费为广大用户提供电影《萤火侠》完整版迅雷高清下载，以及高清在线播放，轻轻一点，把a67收藏，让您和您的朋友共同享{/dede:field}
+{dede:field name='title'}萤火侠{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='pingfen'}8.9{/dede:field}
+{dede:field name='daoyan'}蔡业翰 钟明桦{/dede:field}
+{dede:field name='yanyuan'}程旭辉 邱文博 陈美君 林静苗{/dede:field}
+{dede:field name='time'}2014{/dede:field}
+{dede:field name='yuyan'}马来语{/dede:field}
+{dede:field name='area'}其他{/dede:field}
+{dede:field name='introduction'}《萤火侠》汇聚了新加坡和马来西亚多位谐星、无厘头的喜剧情节和正义的故事结构。电影讲述一位伸张正义的阿发把自己变成超级英雄，但是本身完全没有超能力，歪打正着后小有名气。并聘请了一位超级英雄助理，和另外一班反派超级英雄为社会打击罪犯。 这是一部以打击罪犯概念出發，以超级英雄为题材的時裝电影。所以电影里会出现美式超级英雄服装，多位演员在戏里演超级英雄，将会有很酷的超级英雄服装。在美式超级英雄电影里的英雄都偏爱紧身服，凸现其健硕肌肉的线条美，散发男性的雄壮，露出部分面部。{/dede:field}
+{dede:field name='download'}{/dede:field}
+{dede:field name='litpic'}/dedecms/uploads/allimg/c160322/145V332629AP-S526.jpg{/dede:field}

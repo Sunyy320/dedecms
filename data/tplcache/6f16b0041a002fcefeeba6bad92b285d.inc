@@ -1,0 +1,15 @@
+{dede:field name='keywords'}邪恶力量/凶鬼恶灵第十一{/dede:field}
+{dede:field name='description'}最新电视剧《邪恶力量/凶鬼恶灵第十一季》全集迅雷下载在线观看，a67手机电影网免费为广大用户提供《邪恶力量/凶鬼恶灵第十一季》电视剧全集迅雷高清下载，以及高清在线播放，轻{/dede:field}
+{dede:field name='title'}邪恶力量/凶鬼恶灵第十一季{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='time'}2015{/dede:field}
+{dede:field name='daoyan'}JeremyCarver{/dede:field}
+{dede:field name='yanyuan'}贾德·帕达里克 詹森·阿克斯 米沙·克林斯 马克·谢泼德{/dede:field}
+{dede:field name='pingfen'}0.0{/dede:field}
+{dede:field name='introduction'}农场里的大屠杀事件过后，Dean、Sam和Castiel必须加倍努力来寻找去除「该隐标记」（Mark Of Cain）的方法。他们查遍了所有的民间传说，结果一无所获。绝望的Castiel想出一个新主意，但Sam却称之为「我听到过的最糟糕的主意」。与此同时，Rowena（Ruth Connell）继续实施对付Crowley的计划。Castiel试图与Claire（Kathryn Love Newton）缓和关系，但Claire一心要向杀害自己朋友Randy的凶手Dean报仇。「该隐标记」现在是Dean、Sam和Castiel必须要解决的大问题，或许该隐（Timothy Omundson）本人能提供一点帮助？无论如何，这个角色在下半季中会再次出现，另一方面，Felicia Day扮演的Charlie将从奥兹国归来。她出现在「最危险的情况下」，而且她「带回来一些非常危险的东西」。她将和Wenchester兄弟、Castiel共同追踪那个危险的东西。制片人承诺，观众将看到一个「从未见过的Charlie」。与此同时，Rowena将继续插手儿子Crowley的事务。在寻找「该隐标记」解决方案的过程中，Sam、Dean、Castiel和他们的盟友会和一些「你原本认为不可能」的人进行合作，并且干出极其冒险的事情。该隐（Cain）本人和Metatron均将在下半季回归，他们与「该隐标记」的特殊关系既会帮助Sam、Dean和Castiel，同时也会伤害他们。此外，Claire和Dean的恩恩怨怨、Claire和Castiel的故事都没有结束。{/dede:field}
+{dede:field name='download'}{/dede:field}
+{dede:field name='yuyan'}英语{/dede:field}
+{dede:field name='area'}美剧{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/dedecms/uploads/allimg/c160328/145914O1542640-2W954.jpg{/dede:field}

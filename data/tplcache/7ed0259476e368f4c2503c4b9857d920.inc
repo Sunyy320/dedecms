@@ -1,0 +1,15 @@
+{dede:field name='keywords'}绿箭侠第四季,绿箭侠第四{/dede:field}
+{dede:field name='description'}最新电视剧《绿箭侠第四季》全集迅雷下载在线观看，a67手机电影网免费为广大用户提供《绿箭侠第四季》电视剧全集迅雷高清下载，以及高清在线播放，轻轻一点，把a67收藏，让您和{/dede:field}
+{dede:field name='title'}绿箭侠第四季{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='time'}2015{/dede:field}
+{dede:field name='daoyan'}LexiAlexander{/dede:field}
+{dede:field name='yanyuan'}斯蒂芬·阿美尔 凯蒂·卡西迪 约翰·巴罗曼 保罗·布莱克索恩 薇拉·贺兰德{/dede:field}
+{dede:field name='pingfen'}0.0{/dede:field}
+{dede:field name='introduction'}CW已续订《绿箭侠》第四季。{/dede:field}
+{dede:field name='download'}{/dede:field}
+{dede:field name='yuyan'}英语{/dede:field}
+{dede:field name='area'}美剧{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/dedecms/uploads/allimg/c160328/145914O0461b0-219217.jpg{/dede:field}

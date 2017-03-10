@@ -1,0 +1,1 @@
+<li class="c[field:global.autoindex/]"><a href="[field:arcurl/]" target="_blank"><img  src="[field:litpic/]" alt="[field:title/]" /></a><p>[field:yuyan/]</p><b><a href="[field:arcurl/]" target="_blank">[field:title/]</a><img src="[field:global.cfg_templets_skin/]/images/1.jpg"><em>9.5分</em></b></li>

@@ -1,0 +1,15 @@
+{dede:field name='keywords'}维京传奇第四季,维京传奇{/dede:field}
+{dede:field name='description'}最新电视剧《维京传奇第四季》全集迅雷下载在线观看，a67手机电影网免费为广大用户提供《维京传奇第四季》电视剧全集迅雷高清下载，以及高清在线播放，轻轻一点，把a67收藏，让{/dede:field}
+{dede:field name='title'}维京传奇第四季{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='time'}2016{/dede:field}
+{dede:field name='daoyan'}克莱恩·唐纳利 乔韩·瑞克{/dede:field}
+{dede:field name='yanyuan'}崔维斯·费米尔 古斯塔·斯卡斯加德 凯瑟琳·温妮克{/dede:field}
+{dede:field name='pingfen'}9.5{/dede:field}
+{dede:field name='introduction'}{/dede:field}
+{dede:field name='download'}{/dede:field}
+{dede:field name='yuyan'}英语{/dede:field}
+{dede:field name='area'}美剧{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/dedecms/uploads/allimg/c160328/145914N304L60-131303.jpg{/dede:field}

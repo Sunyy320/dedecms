@@ -1,0 +1,15 @@
+{dede:field name='keywords'}八项注意之泡我女儿没那{/dede:field}
+{dede:field name='description'}最新电视剧《八项注意之泡我女儿没那么容易/泡我千金有规矩第一季》全集迅雷下载在线观看，a67手机电影网免费为广大用户提供《八项注意之泡我女儿没那么容易/泡我千金有规矩第一{/dede:field}
+{dede:field name='title'}八项注意之泡我女儿没那么容易/泡我千金有规矩第一季{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='time'}2016{/dede:field}
+{dede:field name='daoyan'}Tracy Gamble{/dede:field}
+{dede:field name='yanyuan'}凯莉·库柯 凯特蕾·萨加尔{/dede:field}
+{dede:field name='pingfen'}10.0{/dede:field}
+{dede:field name='introduction'}{/dede:field}
+{dede:field name='download'}{/dede:field}
+{dede:field name='yuyan'}英语{/dede:field}
+{dede:field name='area'}美剧{/dede:field}
+{dede:field name='pubdate'}{/dede:field}
+{dede:field name='litpic'}/dedecms/uploads/allimg/c160328/145914NDQ1F-4W16.jpg{/dede:field}
